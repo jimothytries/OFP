@@ -1,0 +1,8 @@
+tensorflow-intel==2.12.0
+numpy==1.23.5
+jax==0.4.13
+jaxlib==0.4.13
+pandas==1.5.3
+scikit-learn==1.2.2
+requests
+playsound
